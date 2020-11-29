@@ -1,0 +1,1 @@
+Virtual pet - feed every 4 hours
